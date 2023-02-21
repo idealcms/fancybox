@@ -1,0 +1,21 @@
+{
+  "name": "idealcms/fancybox",
+  "description": "jQuery lightbox script for displaying images, videos and more. Touch enabled, responsive and fully customizable.",
+  "keywords": [
+    "touch",
+    "responsive",
+    "lightbox",
+    "fancybox",
+    "gallery",
+    "jQuery",
+    "plugin"
+  ],
+  "homepage": "https://fancyapps.com/fancybox/3/",
+  "authors": [
+    {
+      "name": "fancyApps",
+      "email": "info@fancyapps.com"
+    }
+  ],
+  "license": "GPL-3.0"
+}
